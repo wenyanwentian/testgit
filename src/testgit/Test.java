@@ -6,10 +6,6 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		System.out.println("adddd");
-		System.out.println("wenjingwenhuan");
-		Runnable a=()->{
-			System.out.println("wenyanwentian");
-		};
 	}
 
 }
