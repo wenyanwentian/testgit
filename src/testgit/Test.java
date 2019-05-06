@@ -7,6 +7,9 @@ public class Test {
 
 		System.out.println("adddd");
 		System.out.println("wenjingwenhuan");
+		Runnable a=()->{
+			System.out.println("wenyanwentian");
+		};
 	}
 
 }
